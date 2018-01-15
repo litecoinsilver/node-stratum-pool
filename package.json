@@ -10,9 +10,11 @@
         "poolserver",
         "bitcoin",
         "litecoin",
+        "litecoin silver",
+        "ltcsilver",
         "scrypt"
     ],
-    "homepage": "https://github.com/joshuayabut/node-stratum-pool",
+    "homepage": "https://github.com/litecoinsilver/node-stratum-pool",
     "bugs": {
         "url": "https://github.com/joshuayabut/node-stratum-pool/issues"
     },
@@ -25,7 +27,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/joshuayabut/node-stratum-pool.git"
+        "url": "https://github.com/litecoinsilver/node-stratum-pool.git"
     },
     "dependencies": {
         "equihashverify": "git+https://github.com/joshuayabut/equihashverify.git",
