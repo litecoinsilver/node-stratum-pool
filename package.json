@@ -30,7 +30,7 @@
         "url": "https://github.com/litecoinsilver/node-stratum-pool.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/joshuayabut/equihashverify.git",
+        "equihashverify": "git+https://github.com/litecoinsilver/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
